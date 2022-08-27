@@ -1,35 +1,114 @@
 /* Write your CSS here! */
-
-h1 {
-    color: blue; 
-}
-
-p {
-    color: red;
-    border: 2px solid red; 
-    width: 100px;
-    display: block;
-    margin: 0 auto;
-}
-
-body {
-    
-    background-color: aqua;
-
-}
-.notes {
-    color: rgb(255, 119, 0);  
-}
-
-#other {
-    color: green; 
-}
-
-#practice {
-    color: rgb(237, 100, 237); 
-    border: 2px solid black; 
-    /* padding: 50px;  */
-    /* margin: 0 auto;  */
+#BodyTitle {
+    color: rgb(106, 13, 41);
+    border: 5px solid brown; 
+    background-color: rgb(245, 245, 220, 0.8);
+    padding: 20px; 
+    margin:  30px; 
 
     text-align: center;
 }
+
+h1 {
+    color: rgb(0, 255, 132); 
+}
+h2 {
+    color: black; 
+    text-decoration: underline overline #ad28ff;
+}
+
+h3 {
+    text-decoration: underline overline #ad28ff;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p {
+    font-weight: 650;
+    text-indent: 20px;
+}
+
+li {
+    font-weight: 550;
+    text-indent: 20px;
+}
+
+#caption {
+    text-align: center;
+}
+
+article {
+    color: black;
+    border: 2px solid black; 
+    background-color: rgb(245, 245, 220, 0.8);
+    /* width: 100px;
+    display: block;
+    margin: 0 auto; */
+}
+
+body {
+    background-image: url(./images/background.png); 
+}
+
+.What {
+    color: green; 
+}
+
+#WhatTitle {
+    color: black; 
+    text-decoration: underline overline #ad28ff;
+}
+
+.Moves {
+    color: green;
+}
+
+#CommonMoves {
+    color: black; 
+    text-decoration: underline overline #ad28ff;
+    
+}
+
+#DefensiveMoves {
+    color: black;
+    text-decoration: underline overline #ad28ff;
+}
+
+#Kicks {
+    color: black; 
+    text-decoration: underline overline #ad28ff;
+}
+
+#HeadButts {
+    color: black; 
+    text-decoration: underline overline #ad28ff;
+}
+
+#Takedowns {
+    color: black;
+    text-decoration: underline overline #ad28ff; 
+}
+
+#Floreios {
+    color: black; 
+    text-decoration: underline overline #ad28ff;
+}
+
+.Music {
+    color: green;
+}
+
+.Roda {
+    color: green; 
+}
+
+
+
+
+
+
